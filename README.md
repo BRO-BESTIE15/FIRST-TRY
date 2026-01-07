@@ -40,12 +40,22 @@ HTML/JavaScript files can run in a browser using GitHub Pages, but **Python file
 
 ## How to Run This Project
 
-To run this calculator:
+This project is a simple Python calculator that runs in the terminal.
 
-1. Make sure **Python** is installed on your system
-2. Download this repository or clone it
-3. Open a terminal in the project folder
-4. Run the file using:
+### Requirements
+- Python 3 installed on your system
+
+### Steps
+1. Open this repository on GitHub
+2. Click the **Code** button
+3. Download the repository as a ZIP file
+4. Extract the ZIP file on your system
+5. Open a terminal/command prompt in the extracted folder
+6. Run the file using one of the following commands:
 
 ```bash
- first-code.py
+# On Windows or systems where "python" points to Python 3
+python first-code.py
+
+# On systems where Python 3 is accessed using "python3"
+python3 first-code.py
