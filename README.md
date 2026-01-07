@@ -48,4 +48,4 @@ To run this calculator:
 4. Run the file using:
 
 ```bash
-python .py
+ first-code.py
